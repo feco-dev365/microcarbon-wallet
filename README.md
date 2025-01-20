@@ -1,5 +1,4 @@
 # microcarbon-wallet
-# MicroCarbon Wallet
 
 ## Description
 
